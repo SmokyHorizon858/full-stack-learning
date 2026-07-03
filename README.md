@@ -36,3 +36,17 @@ What to learn
 
 Success Standard
 How the browser updates the page after user actions.
+
+## Phase 3: TypeScript Basics
+What to learn
+- Type annotations
+- Interfaces
+- Types
+- Optional properties
+- Union Types
+- Function return types
+- Generics basics
+- TypeScript with array and objects
+
+Success Standard
+Explain why TypeScript catches bugs earlier than JavaScript.
