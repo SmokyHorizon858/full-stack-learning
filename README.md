@@ -4,6 +4,7 @@ Although I learned full-stack before, this is a deeper learning journey.
 
 ## Phase 1: HTML & CSS Fundamentals
 What to learn
+
 HTML:
 - Headings, paragraphs, links, images
 - Forms and inputs
